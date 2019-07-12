@@ -5,6 +5,13 @@
 ## Build Setup
 
 ``` bash
+
+# first setup git on your local system using the following link
+https://www.atlassian.com/git/tutorials/install-git
+
+# install vue-cli for running frontend framework
+npm install -g vue-cli
+
 # install dependencies
 npm install
 
